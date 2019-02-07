@@ -1,0 +1,11 @@
+[color]
+	ui = true
+[user]
+	name = Andrew Shcheglov
+	password = godwindock@gmail.com
+	email = godwindock@gmail.com
+[core]
+	editor = /usr/bin/vim
+	excludesfile = /Users/windock/.gitignore_global
+[push]
+	default = current
